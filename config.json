@@ -1,0 +1,14 @@
+{
+	"log_path": "",
+	"servers": [
+		{
+			"host": "",
+			"username": "",
+			"password": "",
+			"file_base_name": "",
+			"backup_path": "",
+			"storage_path": "",
+			"delete_older": 
+		}
+	]
+}
